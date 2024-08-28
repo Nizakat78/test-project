@@ -1,0 +1,4 @@
+PS C:\Users\USER\Desktop\Frontend\presale-contract> npx hardhat run scripts/deploy_presale.ts --network bnb_testnet
+Deploying Presale contract with the account: 0xF7F765c4Eba30b2a10C36Aea3e3aBF85DDAa2f99
+Presale contract successfully deployed at: 0x2147fFc7E0C9DF67f3253F56B6562BFf36523dd8
+PS C:\Users\USER\Desktop\Frontend\presale-contract> 
